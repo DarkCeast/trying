@@ -1,4 +1,4 @@
-name: Ubuntu SSH
+name: Ubuntu SSH1
 on:
   workflow_dispatch:
     inputs:
